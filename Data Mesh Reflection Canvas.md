@@ -1,6 +1,7 @@
 Data mesh framework / journey map/ reflection canvas / maturity curve 
 Key assumptions involved in the Data mesh journey 
-Key stakeholder alignment - Producers, Consumers, Data Governance ,Data Management, IT, Risk and Compliance, Finance
+Key stakeholder alignment - Producers, Consumers, Data Governance ,Data Management, IT,
+Risk and Compliance, Finance
 Do we need Data Mesh?
 Identify Key Benefits
 Identify ROI measurement parameters
