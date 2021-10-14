@@ -1,33 +1,35 @@
 Data mesh framework / journey map/ reflection canvas / maturity curve 
 
-1. Key assumptions involved in the Data mesh journey 
+1. Getting Data Mesh Off the Ground
 
-2. Key stakeholder alignment - Producers, Consumers, Data Governance ,Data Management, IT,
+2. Key assumptions involved in the Data mesh journey 
 
-3. Risk and Compliance, Finance
+3. Key stakeholder alignment - Producers, Consumers, Data Governance ,Data Management, IT,
 
-4. Do we need Data Mesh?
+4. Risk and Compliance, Finance
 
-5. Identify Key Benefits
+5. Do we need Data Mesh?
 
-6. Identify ROI measurement parameters
+6. Identify Key Benefits
 
-7. Identify Milestones and measurements
+7. Identify ROI measurement parameters
 
-8. Identify phases
+8. Identify Milestones and measurements
 
-9. Identify earlier partners and champions
+9. Identify phases
 
-10. Scope out MVP
+10. Identify earlier partners and champions
 
-11. Identify Tools and Build partners
+11. Scope out MVP
 
-12. Identify Capability building Ways
+12. Identify Tools and Build partners
 
-13. Start Data Mesh Literacy 
+13. Identify Capability building Ways
 
-14. Identify Gamification areas
+14. Start Data Mesh Literacy 
 
-15. Identify Heavy lifting
+15. Identify Gamification areas
 
-16. Identify Anti Patterns
+16. Identify Heavy lifting
+
+17. Identify Anti Patterns
