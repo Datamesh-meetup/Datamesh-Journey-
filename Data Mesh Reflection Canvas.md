@@ -5,6 +5,13 @@ Data mesh framework / journey map/ reflection canvas / maturity curve
 **2. Key assumptions involved in the Data mesh journey:** With all the blessings, the decision for data mesh adoption has been done. Is this enough? What assumptions must be socialized? Is this important? 
 
 **3. Key stakeholder alignment: Producers, Consumers, Data Governance ,Data Management, IT:** Data Mesh is not a technology or tool, its a socio-technical approach, and needs stakeholder alignment more than any other data initiative. What is the path of least resistance? What are the possible options that has worked or can work?
+< Meet up info and learning 
+Thanks for being part of the Datamesh meetup  Getting people onboard on the Data mesh journey. 
+Few artefacts 
+Recording of the session:
+https://us02web.zoom.us/rec/share/akYqvqDKlzohlr8SjUd-cA5yVjlU59DBNU9d3Zy4YmHlWpryisYQApUK_bTpJ5Ir.UE1-kZuYdYe0_Qo9
+Miro board we used for the workshop: https://miro.com/app/board/o9J_lqGCrEc=/
+
 
 **4. Risk and Compliance, Finance:** When and how do we need to involve the key organizations units like risk, compliance and finance? This also depends on the type of the industry.
 
